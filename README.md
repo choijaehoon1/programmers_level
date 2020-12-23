@@ -3,7 +3,7 @@
 
 ### Algorithm & SQL
 ```
-[programmers_SQL] - 최대값 구하기
+[programmers_SQL] - 02. 최대값 구하기
 ```
 
 > 업데이트 중
