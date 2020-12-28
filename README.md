@@ -3,7 +3,10 @@
 
 ### Algorithm & SQL
 ```
-[programmers_SQL] - 02.최대값 구하기
+[programmers] - 01.크레인 인형뽑기 게임.py
+[programmers] - 02.최대값 구하기.sql
+[programmers] - 03.두 개 뽑아서 더하기.py
+[programmers] - 04.모든 레코드 조회하기.sql
 ```
 
 > 업데이트 중
