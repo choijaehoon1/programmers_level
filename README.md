@@ -7,6 +7,7 @@
 [programmers] - 02.최대값 구하기.sql
 [programmers] - 03.두 개 뽑아서 더하기.py
 [programmers] - 04.모든 레코드 조회하기.sql
+[programmers] - 05. 역순 정렬하기.sql
 ```
 
 > 업데이트 중
