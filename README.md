@@ -9,6 +9,7 @@
 [programmers] - 04.모든 레코드 조회하기.sql
 [programmers] - 05.주식가격.py
 [programmers] - 06.기능개발.py
+[programmers] - 07.멀쩡한 사각형.py
 [programmers] - 99.역순 정렬하기.sql
 ```
 
