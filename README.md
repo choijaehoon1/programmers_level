@@ -12,6 +12,7 @@
 [programmers] - 07.멀쩡한 사각형.py
 [programmers] - 08.프린터.py
 [programmers] - 09.124 나라의 숫자.py
+[programmers] - 10.다리를 지나는 트럭.py
 [programmers] - 99.역순 정렬하기.sql
 ```
 
