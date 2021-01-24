@@ -17,6 +17,8 @@
 [programmers] - 12.완주하지 못한 선수.py
 [programmers] - 13.삼각 달팽이.py
 [programmers] - 14.문자열 압축.py
+[programmers] - 15.모의고사.py
+[programmers] - 16.체육복.py
 [programmers] - 99.역순 정렬하기.sql
 ```
 
