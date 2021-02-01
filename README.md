@@ -22,6 +22,7 @@
 [programmers] - 17.K번째수.py
 [programmers] - 18.2016년.py
 [programmers] - 19.큰 수 만들기.py
+[programmers] - 20.신규 아이디 추천.py
 [programmers] - 99.역순 정렬하기.sql
 ```
 
