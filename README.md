@@ -23,6 +23,8 @@
 [programmers] - 18.2016년.py
 [programmers] - 19.큰 수 만들기.py
 [programmers] - 20.신규 아이디 추천.py
+[programmers] - 21.메뉴 리뉴얼.py
+[programmers] - 22.순위 검색.py
 [programmers] - 99.역순 정렬하기.sql
 ```
 
