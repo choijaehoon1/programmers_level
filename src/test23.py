@@ -1,3 +1,4 @@
+# 문자열 나누는 인덱스 반환 함수
 def divide(p):
     left_cnt = 0
     right_cnt = 0
@@ -9,33 +10,37 @@ def divide(p):
         if left_cnt == right_cnt:
             return i
 
-        
+# p에는 균형잡힌 문자열 형태로만 들어오게 됨 ex) (()), ())(        
 def check(p):
     cnt = 0
     for i in range(len(p)):
         if p[i] == '(':
             cnt += 1
+        # 제일 먼저 들어오는게 )인 경우 False이고 ())(와 같은 경우 False 리턴됨    
         if p[i] == ')':
-            if cnt == 0:
+            if cnt == 0: 
                 return False
             cnt -= 1    
     return True
 
 def solution(p):
-    answer = ''
-#     if check(p) == True:
-#         return p
+    # p가 이미 올바른 괄호 문자열인 경우
+    if check(p) == True:
+        return p
     
+    # 빈문자열인 경우
     if len(p) == 0: return ''
     
+    # u와 v는 균형잡히게 반환 됨
     cnt = divide(p)
     u = p[:cnt+1]
     v = p[cnt+1:]
     # print(u,v)
     
+    # 올바른 괄호 문자열인 경우
     if check(u) == True:
-        answer = u + solution(v)
-    else:
+        return u + solution(v)
+    else: # 올바른 괄호 문자열이 아닌 경우
         s = '('
         tmp = solution(v)
         s += tmp
@@ -47,6 +52,5 @@ def solution(p):
                 u[i] = ')'
             else:    
                 u[i] = '('
-        answer = s + ''.join(u)
-    
-    return answer
+        return s + ''.join(u)
+        
