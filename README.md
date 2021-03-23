@@ -26,6 +26,8 @@
 [programmers] - 21.메뉴 리뉴얼.py
 [programmers] - 22.순위 검색.py
 [programmers] - 23.괄호 변환.py
+[programmers] - 24.소수 찾기.py
+[programmers] - 25.더 맵게.py
 [programmers] - 98.아픈 동물 찾기.sql
 [programmers] - 99.역순 정렬하기.sql
 ```
