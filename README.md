@@ -31,6 +31,7 @@
 [programmers] - 26.조이스틱.py
 [programmers] - 27.가장 큰 수.py
 [programmers] - 28.전화번호 목록.py
+[programmers] - 29.H-Index.py
 [programmers] - 98.아픈 동물 찾기.sql
 [programmers] - 99.역순 정렬하기.sql
 ```
