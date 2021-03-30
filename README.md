@@ -35,6 +35,7 @@
 [programmers] - 30.구명보트.py
 [programmers] - 31.위장.py
 [programmers] - 32.카펫.py
+[programmers] - 33.타겟 넘버.py
 [programmers] - 98.아픈 동물 찾기.sql
 [programmers] - 99.역순 정렬하기.sql
 ```
