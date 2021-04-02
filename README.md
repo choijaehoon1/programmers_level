@@ -37,6 +37,9 @@
 [programmers] - 32.카펫.py
 [programmers] - 33.타겟 넘버.py
 [programmers] - 34.순위 검색.py
+[programmers] - 35.가운데 글자 가져오기.py
+[programmers] - 36.3진법 뒤집기.py
+[programmers] - 37.쿼드압축 후 개수 세기.py
 [programmers] - 98.아픈 동물 찾기.sql
 [programmers] - 99.역순 정렬하기.sql
 ```
