@@ -42,8 +42,9 @@
 [programmers] - 37.쿼드압축 후 개수 세기.py
 [programmers] - 38.가장 큰 정사각형 찾기.py
 [programmers] - 39.같은 숫자는 싫어.py
+[programmers] - 40.역순 정렬하기.sql
+[programmers] - 41.올바른 괄호.py
 [programmers] - 98.아픈 동물 찾기.sql
-[programmers] - 99.역순 정렬하기.sql
 ```
 
 > 업데이트 중
