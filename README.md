@@ -1,5 +1,5 @@
 # programmers_level
-## Python을 활용한 프로그래머스 Level 1~2 문제풀이
+## Python을 활용한 프로그래머스 알고리즘 및 SQL 문제풀이
 
 ### Algorithm & SQL
 ```
@@ -44,7 +44,9 @@
 [programmers] - 39.같은 숫자는 싫어.py
 [programmers] - 40.역순 정렬하기.sql
 [programmers] - 41.올바른 괄호.py
-[programmers] - 98.아픈 동물 찾기.sql
+[programmers] - 42.튜플.py
+[programmers] - 43.나누어 떨어지는 숫자 배열
+[programmers] - 99.아픈 동물 찾기.sql
 ```
 
 > 업데이트 중
