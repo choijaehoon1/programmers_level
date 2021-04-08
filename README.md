@@ -45,7 +45,8 @@
 [programmers] - 40.역순 정렬하기.sql
 [programmers] - 41.올바른 괄호.py
 [programmers] - 42.튜플.py
-[programmers] - 43.나누어 떨어지는 숫자 배열
+[programmers] - 43.나누어 떨어지는 숫자 배열.py
+[programmers] - 44.다음 큰 숫자.py
 [programmers] - 99.아픈 동물 찾기.sql
 ```
 
