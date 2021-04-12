@@ -48,6 +48,7 @@
 [programmers] - 43.나누어 떨어지는 숫자 배열.py
 [programmers] - 44.다음 큰 숫자.py
 [programmers] - 45.두 정수 사이의 합.py
+[programmers] - 46.땅따먹기.py
 [programmers] - 99.아픈 동물 찾기.sql
 ```
 
