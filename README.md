@@ -50,6 +50,7 @@
 [programmers] - 45.두 정수 사이의 합.py
 [programmers] - 46.땅따먹기.py
 [programmers] - 47.문자열 내 p와 y의 개수.py
+[programmers] - 48.폰켓몬.py
 [programmers] - 99.아픈 동물 찾기.sql
 ```
 
