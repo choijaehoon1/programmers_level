@@ -51,6 +51,7 @@
 [programmers] - 46.땅따먹기.py
 [programmers] - 47.문자열 내 p와 y의 개수.py
 [programmers] - 48.폰켓몬.py
+[programmers] - 49.문자열 내림차순으로 배치하기.py
 [programmers] - 99.아픈 동물 찾기.sql
 ```
 
