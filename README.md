@@ -53,6 +53,7 @@
 [programmers] - 48.폰켓몬.py
 [programmers] - 49.문자열 내림차순으로 배치하기.py
 [programmers] - 50.문자열 다루기 기본.py
+[programmers] - 51.서울에서 김서방 찾기.py
 [programmers] - 99.아픈 동물 찾기.sql
 ```
 
