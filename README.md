@@ -57,6 +57,7 @@
 [programmers] - 52.아픈 동물 찾기.sql
 [programmers] - 53.영어 끝말잇기.py
 [programmers] - 54.방문 길이.py
+[programmers] - 55.스킬트리.py
 ```
 
 > 업데이트 중
