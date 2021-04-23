@@ -58,6 +58,7 @@
 [programmers] - 53.영어 끝말잇기.py
 [programmers] - 54.방문 길이.py
 [programmers] - 55.스킬트리.py
+[programmers] - 56.괄호 회전하기.py
 ```
 
 > 업데이트 중
