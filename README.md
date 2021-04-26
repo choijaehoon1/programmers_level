@@ -60,6 +60,7 @@
 [programmers] - 55.스킬트리.py
 [programmers] - 56.괄호 회전하기.py
 [programmers] - 57.삼각 달팽이.py
+[programmers] - 58.쿼드압축 후 개수 세기.py
 ```
 
 > 업데이트 중
