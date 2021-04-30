@@ -64,6 +64,8 @@
 [programmers] - 59.행렬 테두리 회전하기.py
 [programmers] - 60.이진 변환 반복하기.py
 [programmers] - 61.멀쩡한 사각형.py
+[programmers] - 62.수박수박수박수박수박수?.py
+[programmers] - 63.숫자의 표현.py
 ```
 
 > 업데이트 중
