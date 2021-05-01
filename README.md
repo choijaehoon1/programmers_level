@@ -66,6 +66,8 @@
 [programmers] - 61.멀쩡한 사각형.py
 [programmers] - 62.수박수박수박수박수박수?.py
 [programmers] - 63.숫자의 표현.py
+[programmers] - 64.문자열을 정수로 바꾸기.py
+[programmers] - 65.시저 암호.py
 ```
 
 > 업데이트 중
