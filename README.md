@@ -68,6 +68,16 @@
 [programmers] - 63.숫자의 표현.py
 [programmers] - 64.문자열을 정수로 바꾸기.py
 [programmers] - 65.시저 암호.py
+[programmers] - 66.약수의 합.py
+[programmers] - 67.어린 동물 찾기.sql
+[programmers] - 68.이상한 문자 만들기.py
+[programmers] - 69.자릿수 더하기.py
+[programmers] - 70.자연수 뒤집어 배열로 만들기.py
+[programmers] - 71.정수 내림차순으로 배치하기.py
+[programmers] - 72.정수 제곱근 판별.py
+[programmers] - 73.제일 작은 수 제거하기.py
+[programmers] - 74.짝수와 홀수.py
+[programmers] - 75.동물의 아이디와 이름.sql
 ```
 
 > 업데이트 중
