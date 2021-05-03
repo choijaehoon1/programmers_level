@@ -78,6 +78,9 @@
 [programmers] - 73.제일 작은 수 제거하기.py
 [programmers] - 74.짝수와 홀수.py
 [programmers] - 75.동물의 아이디와 이름.sql
+[programeers] - 76.이름이 없는 동물의 아이디.sql
+[programmers] - 77.로또의 최고 순위와 최저 순위.py
+[programmers] - 78.소수 만들기.py
 ```
 
 > 업데이트 중
