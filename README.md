@@ -83,6 +83,8 @@
 [programmers] - 78.소수 만들기.py
 [programmers] - 79.내적.py
 [programmers] - 80.키패드 누르기.py
+[programmers] - 81.음양 더하기.py
+[programmers] - 82.짝지어 제거하기.py
 ```
 
 > 업데이트 중
