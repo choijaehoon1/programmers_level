@@ -89,6 +89,10 @@
 [programmers] - 84.수식 최대화.py
 [programmers] - 85.보석 쇼핑.py
 [programmers] - 86.경주로 건설.py
+[programmers] - 87.예산.py
+[programmers] - 88.실패율.py
+[programmers] - 89.여러 기준으로 정렬하기.sql
+[programmers] - 90.[1차] 비밀지도.py
 ```
 
 > 업데이트 중
