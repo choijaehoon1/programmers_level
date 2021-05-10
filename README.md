@@ -93,6 +93,8 @@
 [programmers] - 88.실패율.py
 [programmers] - 89.여러 기준으로 정렬하기.sql
 [programmers] - 90.[1차] 비밀지도.py
+[programmers] - 91.상위 n개 레코드.sql
+[programmers] - 92.[1차] 다트 게임.py
 ```
 
 > 업데이트 중
