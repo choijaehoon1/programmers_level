@@ -95,6 +95,17 @@
 [programmers] - 90.[1차] 비밀지도.py
 [programmers] - 91.상위 n개 레코드.sql
 [programmers] - 92.[1차] 다트 게임.py
+[programmers] - 93.문자열 내 마음대로 정렬하기.py
+[programmers] - 94.최대공약수와 최소공배수.py
+[programmers] - 95.콜라츠 추측.py
+[programmers] - 96.평균 구하기.py
+[programmers] - 97.하샤드 수.py
+[programmers] - 98.핸드폰 번호 가리기.py
+[programmers] - 99.행렬의 덧셈.py
+[programmers] - 100.x만큼 간격이 있는 n개의 숫자.py
+[programmers] - 101.직사각형 별찍기.py
+[programmers] - 102.루시와 엘라 찾기.sql
+[programmers] - 103.타겟 넘버.py
 ```
 
 > 업데이트 중
