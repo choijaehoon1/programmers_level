@@ -106,6 +106,7 @@
 [programmers] - 101.직사각형 별찍기.py
 [programmers] - 102.루시와 엘라 찾기.sql
 [programmers] - 103.타겟 넘버.py
+[programmers] - 104.문자열 압축.py
 ```
 
 > 업데이트 중
