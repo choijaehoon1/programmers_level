@@ -17,13 +17,13 @@ def solution(relation):
     # print(final)            
     
     answer = set(final[:])
-    # print(answer)
+    # print(answer) 
     
     for i in range(len(final)):
         for j in range(i+1,len(final)):
             if len(final[i]) == len(set(final[i]) & set(final[j])):
                 answer.discard(final[j])
-    # print(answer)                
+    # print(answer)                 
     answer = len(answer)
     
     return answer
