@@ -119,6 +119,8 @@
 [programmers] - 114.NULL 처리하기.sql
 [programmers] - 115.후보키.py
 [programmers] - 116.배달.py
+[programmers] - 117.[1차]프렌즈4블록.py
+[programmers] - 118.2개 이하로 다른 비트.py
 ```
 
 > 업데이트 중
