@@ -121,6 +121,8 @@
 [programmers] - 116.배달.py
 [programmers] - 117.[1차]프렌즈4블록.py
 [programmers] - 118.2개 이하로 다른 비트.py
+[programmers] - 119.중복 제거하기.sql
+[programmers] - 120.DATETIME에서 DATE로 형 변환.sql
 ```
 
 > 업데이트 중
