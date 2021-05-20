@@ -123,6 +123,8 @@
 [programmers] - 118.2개 이하로 다른 비트.py
 [programmers] - 119.중복 제거하기.sql
 [programmers] - 120.DATETIME에서 DATE로 형 변환.sql
+[programmers] - 121.[1차]캐시.py
+[programmers] - 122.점프와 순간 이동.py
 ```
 
 > 업데이트 중
