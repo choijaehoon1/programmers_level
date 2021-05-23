@@ -127,6 +127,7 @@
 [programmers] - 122.점프와 순간 이동.py
 [programmers] - 123.[3차]방금그곡.py
 [programmers] - 124.[3차]압축.py
+[programmers] - 125.[3차]파일명 정렬.py
 ```
 
 > 업데이트 중
