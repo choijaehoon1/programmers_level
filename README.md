@@ -128,6 +128,7 @@
 [programmers] - 123.[3차]방금그곡.py
 [programmers] - 124.[3차]압축.py
 [programmers] - 125.[3차]파일명 정렬.py
+[programmers] - 126.[3차]n진수 게임.py
 ```
 
 > 업데이트 중
