@@ -129,6 +129,10 @@
 [programmers] - 124.[3차]압축.py
 [programmers] - 125.[3차]파일명 정렬.py
 [programmers] - 126.[3차]n진수 게임.py
+[programmers] - 127.최대값과 최솟값.py
+[programmers] - 128.최솟값 만들기.py
+[programmers] - 129.피보나치 수.py
+[programmers] - 130.행렬의 곱셈.py
 ```
 
 > 업데이트 중
