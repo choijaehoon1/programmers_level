@@ -133,6 +133,8 @@
 [programmers] - 128.최솟값 만들기.py
 [programmers] - 129.피보나치 수.py
 [programmers] - 130.행렬의 곱셈.py
+[programmers] - 131.JadenCase 문자열 만들기.py
+[programmers] - 132.N개의 최소공배수.py
 ```
 
 > 업데이트 중
