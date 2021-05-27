@@ -135,6 +135,7 @@
 [programmers] - 130.행렬의 곱셈.py
 [programmers] - 131.JadenCase 문자열 만들기.py
 [programmers] - 132.N개의 최소공배수.py
+[programmers] - 133.없어진 기록 찾기.sql
 ```
 
 > 업데이트 중
