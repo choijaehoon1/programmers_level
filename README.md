@@ -136,6 +136,13 @@
 [programmers] - 131.JadenCase 문자열 만들기.py
 [programmers] - 132.N개의 최소공배수.py
 [programmers] - 133.없어진 기록 찾기.sql
+[programmers] - 134.N으로 표현.py
+[programmers] - 135.입양 시각 구하기(2).sql
+[programmers] - 136.이름이 있는 동물의 아이디.sql
+[programmers] - 137.있었는데요 없었습니다.sql
+[programmers] - 138.오랜 기간 보호한 동물(1).sql
+[programmers] - 139.보호소에서 중성화한 동물.sql
+[programmers] - 140.오랜 기간 보호한 동물(2).sql
 ```
 
 > 업데이트 중
