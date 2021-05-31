@@ -143,6 +143,7 @@
 [programmers] - 138.오랜 기간 보호한 동물(1).sql
 [programmers] - 139.보호소에서 중성화한 동물.sql
 [programmers] - 140.오랜 기간 보호한 동물(2).sql
+[programmers] - 141.입국심사.py
 ```
 
 > 업데이트 중
