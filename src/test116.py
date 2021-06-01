@@ -11,13 +11,12 @@ def bfs(node,board,N,K):
     
     while q:
         node,c = q.popleft()
-        for i in board[node]:
-            for j in range(1,N+1):
-                if board[node][j] != 0:
-                    cost = board[node][j] + c
-                    if dist[j] > cost:
-                        dist[j] = cost
-                        q.append([j,cost])
+        for i in range(1,N+1):
+            if board[node][i] != 0:
+                cost = board[node][i] + c
+                if dist[i] > cost:
+                    dist[i] = cost
+                    q.append([i,cost])
     cnt = 0    
     for i in dist[1:]:
         if i <= K:
