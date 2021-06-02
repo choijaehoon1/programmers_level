@@ -145,6 +145,7 @@
 [programmers] - 140.오랜 기간 보호한 동물(2).sql
 [programmers] - 141.입국심사.py
 [programmers] - 142.가장 먼 노드.py
+[programmers] - 143.[1차]추석 트래픽.py
 ```
 
 > 업데이트 중
