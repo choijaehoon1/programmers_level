@@ -147,6 +147,7 @@
 [programmers] - 142.가장 먼 노드.py
 [programmers] - 143.[1차]추석 트래픽.py
 [programmers] - 144.네트워크.py
+[programmers] - 145.정수 삼각형.py
 ```
 
 > 업데이트 중
