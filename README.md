@@ -149,6 +149,7 @@
 [programmers] - 144.네트워크.py
 [programmers] - 145.정수 삼각형.py
 [programmers] - 146.디스크 컨트롤러.py
+[programmers] - 147.순위.py
 ```
 
 > 업데이트 중
