@@ -150,6 +150,7 @@
 [programmers] - 145.정수 삼각형.py
 [programmers] - 146.디스크 컨트롤러.py
 [programmers] - 147.순위.py
+[programmers] - 148.단어 변환.py
 ```
 
 > 업데이트 중
